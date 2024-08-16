@@ -1,4 +1,4 @@
-#app 
+# app 
 git_dersleri
 
 
